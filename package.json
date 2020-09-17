@@ -2,13 +2,17 @@
 	"name": "pretty-graphql",
 	"displayName": "Pretty GraphQL",
 	"description": "Awesome",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "sooxt",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/sooxt98/PrettyGraphQL.git"
 	},
 	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#1E1E1E",
+		"theme": "dark"
+	},
 	"engines": {
 		"vscode": "^1.49.0"
 	},
